@@ -22,9 +22,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/mockittapp.wondershare.com\/app\/6f92a80b0740c106f5cc2a67bc65b48b50e8284a"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
