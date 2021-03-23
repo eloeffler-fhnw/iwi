@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"eloeffler-fhnw.github.io\/iwi\/riskgame\/index.html"
+                 "value":"https:\/\/eloeffler-fhnw.github.io\/iwi\/riskgame\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
