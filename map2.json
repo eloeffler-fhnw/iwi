@@ -193,7 +193,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/VSzE8aB4IXM"
+                         "value":"https:\/\/eloeffler.de\/"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -203,12 +203,6 @@
                  "y":733.333333333333
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/VSzE8aB4IXM"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
